@@ -3,3 +3,5 @@ first file
 second line
 
 third line
+
+line committed from master
